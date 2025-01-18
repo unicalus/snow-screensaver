@@ -2,7 +2,7 @@ Free snow screen saver for Windows
 
 To enable this screensaver in Windows, follow these steps:
 
-    Download installer in Github or direct https://github.com/unicalus/snow-screensaver/snow-screensaver.exe
+    Download installer in Github or direct https://github.com/unicalus/snow-screensaver/raw/refs/heads/main/snow-screensaver.exe
 
     Run snow-screensaver.exe
 
