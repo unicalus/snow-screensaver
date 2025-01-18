@@ -5,9 +5,9 @@ To enable this screensaver in Windows, follow these steps:
     Download installer in Github or direct 
     https://github.com/unicalus/snow-screensaver/raw/refs/heads/main/snow-screensaver.exe
 
-    Run snow-screensaver.exe
+    Run snow-screensaver.exe and install.
 
-    Click START > PC Settings > Personalization > Lock Screen > Screen saver
+    In Windows click START > PC Settings > Personalization > Lock Screen > Screen saver
 
     Select the screensaver named "Snow Screen saver".
 
